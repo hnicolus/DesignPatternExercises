@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Drawer\\Drawer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Drawer\\Drawer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Drawer\\Drawer.csproj",
+        "projectName": "Drawer",
+        "projectPath": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Drawer\\Drawer.csproj",
+        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Drawer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\Xamarin\\18.1.0.42\\Xamarin\\nuget": {},
+          "C:\\Users\\nicol\\OneDrive\\Documents\\API": {},
+          "C:\\Users\\nicol\\source\\repos\\My Nuget Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cloudsmith.io/orchardcore/preview/v3/index.json": {},
+          "https://nuget.stocksharp.com/AQAAAAAAAABN8Uy1Vq9zbji5LDyxUz8B0OOVNi4zqYDW5AHLRd0n0w": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

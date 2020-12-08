@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\bin\Debug\net5.0\FileManager.CompositePattern.exe
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\bin\Debug\net5.0\FileManager.CompositePattern.deps.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\bin\Debug\net5.0\FileManager.CompositePattern.runtimeconfig.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\bin\Debug\net5.0\FileManager.CompositePattern.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\bin\Debug\net5.0\FileManager.CompositePattern.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\bin\Debug\net5.0\ref\FileManager.CompositePattern.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\bin\Debug\net5.0\FileManager.CompositePattern.pdb
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\FileManager.CompositePattern.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\FileManager.CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\FileManager.CompositePattern.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\FileManager.CompositePattern.AssemblyInfo.cs
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\FileManager.CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\FileManager.CompositePattern.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\ref\FileManager.CompositePattern.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\FileManager.CompositePattern.pdb
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\FileManager\obj\Debug\net5.0\FileManager.CompositePattern.genruntimeconfig.cache

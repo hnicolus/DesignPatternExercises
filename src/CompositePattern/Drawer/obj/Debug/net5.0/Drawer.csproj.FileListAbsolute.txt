@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\bin\Debug\net5.0\Drawer.exe
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\bin\Debug\net5.0\Drawer.deps.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\bin\Debug\net5.0\Drawer.runtimeconfig.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\bin\Debug\net5.0\Drawer.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\bin\Debug\net5.0\Drawer.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\bin\Debug\net5.0\ref\Drawer.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\bin\Debug\net5.0\Drawer.pdb
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\Drawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\Drawer.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\Drawer.AssemblyInfo.cs
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\Drawer.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\Drawer.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\ref\Drawer.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\Drawer.pdb
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\Drawer.genruntimeconfig.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\CompositePattern\Drawer\obj\Debug\net5.0\Drawer.csprojAssemblyReference.cache
