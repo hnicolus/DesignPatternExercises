@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EoZs94qo42+eLaot7kfto80nMvhkMMLSCMCeDbosa5jXv2Qbk+O0aXzDotoZb+yDIJLp+1qXNYYwKG1m/fXQ8A==",
+  "dgSpecHash": "mooslJ/EUw0qXlaM/wwLMrZ6ovoTojYcB7yD7AUjyPaZhflu6b2lfziSDsghFDeHfZ9oBBLD8dxHAc1YuC/W1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Nuerons\\Neurons.csproj",
+  "projectFilePath": "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\Nuerons\\Neurons.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

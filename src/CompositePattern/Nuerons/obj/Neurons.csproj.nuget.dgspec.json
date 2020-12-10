@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Nuerons\\Neurons.csproj": {}
+    "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\Nuerons\\Neurons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Nuerons\\Neurons.csproj": {
+    "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\Nuerons\\Neurons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Nuerons\\Neurons.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\Nuerons\\Neurons.csproj",
         "projectName": "Neurons",
-        "projectPath": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Nuerons\\Neurons.csproj",
+        "projectPath": "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\Nuerons\\Neurons.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\Nuerons\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\Nuerons\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\bin\Debug\net5.0\WeatherStation.exe
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\bin\Debug\net5.0\WeatherStation.deps.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\bin\Debug\net5.0\WeatherStation.runtimeconfig.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\bin\Debug\net5.0\WeatherStation.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\bin\Debug\net5.0\WeatherStation.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\bin\Debug\net5.0\ref\WeatherStation.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\bin\Debug\net5.0\WeatherStation.pdb
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\WeatherStation.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\WeatherStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\WeatherStation.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\WeatherStation.AssemblyInfo.cs
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\WeatherStation.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\WeatherStation.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\ref\WeatherStation.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\WeatherStation.pdb
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation\obj\Debug\net5.0\WeatherStation.genruntimeconfig.cache

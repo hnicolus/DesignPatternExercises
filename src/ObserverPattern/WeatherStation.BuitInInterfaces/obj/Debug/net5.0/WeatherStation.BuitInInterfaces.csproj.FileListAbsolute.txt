@@ -1,0 +1,15 @@
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\bin\Debug\net5.0\WeatherStation.BuitInInterfaces.exe
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\bin\Debug\net5.0\WeatherStation.BuitInInterfaces.deps.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\bin\Debug\net5.0\WeatherStation.BuitInInterfaces.runtimeconfig.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\bin\Debug\net5.0\WeatherStation.BuitInInterfaces.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\bin\Debug\net5.0\WeatherStation.BuitInInterfaces.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\bin\Debug\net5.0\ref\WeatherStation.BuitInInterfaces.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\bin\Debug\net5.0\WeatherStation.BuitInInterfaces.pdb
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\obj\Debug\net5.0\WeatherStation.BuitInInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\obj\Debug\net5.0\WeatherStation.BuitInInterfaces.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\obj\Debug\net5.0\WeatherStation.BuitInInterfaces.AssemblyInfo.cs
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\obj\Debug\net5.0\WeatherStation.BuitInInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\obj\Debug\net5.0\WeatherStation.BuitInInterfaces.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\obj\Debug\net5.0\ref\WeatherStation.BuitInInterfaces.dll
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\obj\Debug\net5.0\WeatherStation.BuitInInterfaces.pdb
+C:\Users\nicol\source\repos\CompositePatternExample\src\ObserverPattern\WeatherStation.BuitInInterfaces\obj\Debug\net5.0\WeatherStation.BuitInInterfaces.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\FileManager\\FileManager.csproj": {}
+    "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\FileManager\\FileManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\FileManager\\FileManager.csproj": {
+    "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\FileManager\\FileManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\FileManager\\FileManager.csproj",
+        "projectUniqueName": "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\FileManager\\FileManager.csproj",
         "projectName": "FileManager",
-        "projectPath": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\FileManager\\FileManager.csproj",
+        "projectPath": "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\FileManager\\FileManager.csproj",
         "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\source\\repos\\CompositePatternExample\\src\\CompositePattern\\FileManager\\obj\\",
+        "outputPath": "C:\\Users\\nicol\\source\\repos\\DesignPatternExercises\\src\\CompositePattern\\FileManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

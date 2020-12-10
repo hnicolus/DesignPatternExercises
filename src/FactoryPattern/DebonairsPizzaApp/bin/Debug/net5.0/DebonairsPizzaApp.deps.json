@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DebonairsPizzaApp/1.0.0": {
+        "runtime": {
+          "DebonairsPizzaApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DebonairsPizzaApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
