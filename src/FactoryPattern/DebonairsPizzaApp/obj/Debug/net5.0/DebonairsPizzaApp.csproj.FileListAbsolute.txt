@@ -1,0 +1,15 @@
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\bin\Debug\net5.0\DebonairsPizzaApp.exe
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\bin\Debug\net5.0\DebonairsPizzaApp.deps.json
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\bin\Debug\net5.0\DebonairsPizzaApp.runtimeconfig.json
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\bin\Debug\net5.0\DebonairsPizzaApp.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\bin\Debug\net5.0\DebonairsPizzaApp.dll
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\bin\Debug\net5.0\ref\DebonairsPizzaApp.dll
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\bin\Debug\net5.0\DebonairsPizzaApp.pdb
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\obj\Debug\net5.0\DebonairsPizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\obj\Debug\net5.0\DebonairsPizzaApp.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\obj\Debug\net5.0\DebonairsPizzaApp.AssemblyInfo.cs
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\obj\Debug\net5.0\DebonairsPizzaApp.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\obj\Debug\net5.0\DebonairsPizzaApp.dll
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\obj\Debug\net5.0\ref\DebonairsPizzaApp.dll
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\obj\Debug\net5.0\DebonairsPizzaApp.pdb
+C:\Users\nicol\source\repos\DesignPatternExercises\src\FactoryPattern\DebonairsPizzaApp\obj\Debug\net5.0\DebonairsPizzaApp.genruntimeconfig.cache
